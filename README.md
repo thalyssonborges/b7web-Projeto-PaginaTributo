@@ -4,5 +4,4 @@ Este projeto tem finalidade de criar uma página de tributo para aplicar os conc
 
 
 
-VEJA AGORA COMO FICOU: https://thalyssonborges.github.io/b7web-Projeto-PaginaTributo/
-
+VEJA AGORA COMO FICOU: https://b7web-projeto-paginatributo.netlify.app/index.html
